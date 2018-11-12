@@ -10,4 +10,6 @@
 
 ENYOJ
 
-It's a treninig project
+### It's a treninig project
+
+link -> https://t0shifollow.github.io/Thrownig_Bones_Game_Javascript/
